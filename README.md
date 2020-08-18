@@ -24,11 +24,11 @@ To get started I want this to be an interactive excercise where you can referenc
 <hr>
 
 ###### <h1> Change this to an h1 tag </h1>
-##### Change this to an h2 tag
-#### Change this to an h3 tag
-### Change this to an h4 tag
-## Change this to an h5 tag
-# Change this to an h6 tag
+##### <h2> Change this to an h2 tag </h2>
+#### <h3> Change this to an h3 tag </h3>
+### <h4> Change this to an h4 tag </h4>
+## <h5> Change this to an h5 tag </h5>
+# <h6> Change this to an h6 tag </h6>
 
 <hr>
 
@@ -36,12 +36,12 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- item 1
-- item 2
-- item 3
-- item 4
-- item 5
-- item 6
+* - item 1
+* - item 2
+* - item 3
+* - item 4
+* - item 5
+* - item 6
 
 <hr>
 

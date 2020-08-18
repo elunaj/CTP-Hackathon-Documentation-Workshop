@@ -23,7 +23,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-###### Change this to an h1 tag
+###### <h1> Change this to an h1 tag </h1>
 ##### Change this to an h2 tag
 #### Change this to an h3 tag
 ### Change this to an h4 tag
